@@ -5,7 +5,7 @@
 
 import java.util.ArrayList;
 
-public class ALHeap {
+public class ALMaxHeap {
 
     //instance vars
     private ArrayList<Integer> _heap; //underlying container is array of Integers
